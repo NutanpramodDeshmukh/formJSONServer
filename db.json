@@ -1,0 +1,13 @@
+{
+    "employees": [
+      {
+        "name": "nutan",
+        "profilePic": "./images/profile1.png",
+        "gender": "female",
+        "department": "Sales,Finance,",
+        "salary": "400000",
+        "note": "hi there",
+        "id": 1
+      }
+    ]
+  }
